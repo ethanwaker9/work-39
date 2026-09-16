@@ -1,4 +1,4 @@
-# Efficient Actively Secure $`(t,n)`$-Threshold Isogeny Signatures
+# Actively Secure $`(t,n)`$-Threshold Isogeny Signatures
 
 This repository contains our research implementation of *Albacore: Efficient Actively Secure Threshold Isogeny Signatures*. It implements
 
