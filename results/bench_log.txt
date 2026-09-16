@@ -1,0 +1,150 @@
+sweep_t dm20 2 16 True 46 0.0
+sweep_t dems24 2 16 True 62 0.0
+sweep_t sashimi 2 16 True 23460 0.16
+sweep_t csishark 2 16 True 23460 0.17
+sweep_t cm22 2 16 True 31050 0.14
+sweep_t thresher 2 16 True 23253 0.13
+sweep_t grass 2 16 True 138 0.0
+sweep_t grassplus 2 16 True 10120 0.08
+sweep_t ours 2 16 True 91 0.0
+sweep_t dm20 3 16 True 69 0.0
+sweep_t dems24 3 16 True 85 0.0
+sweep_t sashimi 3 16 True 55545 0.34
+sweep_t csishark 3 16 True 55545 0.34
+sweep_t cm22 3 16 True 69759 0.29
+sweep_t thresher 3 16 True 64515 0.39
+sweep_t grass 3 16 True 276 0.0
+sweep_t grassplus 3 16 True 26335 0.19
+sweep_t ours 3 16 True 136 0.0
+sweep_t dm20 4 16 True 92 0.0
+sweep_t dems24 4 16 True 108 0.0
+sweep_t sashimi 4 16 True 101200 0.56
+sweep_t csishark 4 16 True 101200 0.57
+sweep_t cm22 4 16 True 123924 0.52
+sweep_t thresher 4 16 True 126385 0.81
+sweep_t grass 4 16 True 460 0.0
+sweep_t grassplus 4 16 True 50301 0.34
+sweep_t ours 4 16 True 181 0.0
+sweep_t dm20 5 16 True 115 0.0
+sweep_t dems24 5 16 True 131 0.0
+sweep_t sashimi 5 16 True 160425 0.86
+sweep_t csishark 5 16 True 160425 0.86
+sweep_t cm22 5 16 True 193545 0.8
+sweep_t thresher 5 16 True 208863 1.44
+sweep_t grass 5 16 True 690 0.0
+sweep_t grassplus 5 16 True 82018 0.53
+sweep_t ours 5 16 True 230 0.0
+sweep_t dm20 6 16 True 138 0.0
+sweep_t dems24 6 16 True 154 0.0
+sweep_t sashimi 6 16 True 233220 1.2
+sweep_t csishark 6 16 True 233220 1.19
+sweep_t cm22 6 16 True 278622 1.16
+sweep_t thresher 6 16 True 311949 2.31
+sweep_t grass 6 16 True 966 0.0
+sweep_t grassplus 6 16 True 121486 0.75
+sweep_t ours 6 16 True 276 0.0
+sweep_t dm20 8 16 True 184 0.0
+sweep_t dems24 8 16 True 200 0.0
+sweep_t sashimi 8 16 True 419520 2.03
+sweep_t csishark 8 16 True 419520 2.04
+sweep_t cm22 8 16 True 495144 2.09
+sweep_t thresher 8 16 True 579945 4.79
+sweep_t grass 8 16 True 1656 0.0
+sweep_t grassplus 8 16 True 223675 1.33
+sweep_t ours 8 16 True 368 0.0
+sweep_t dm20 10 16 True 230 0.0
+sweep_t dems24 10 16 True 246 0.0
+sweep_t sashimi 10 16 True 660100 3.17
+sweep_t csishark 10 16 True 660100 3.15
+sweep_t cm22 10 16 True 773490 3.35
+sweep_t thresher 10 16 True 930373 8.63
+sweep_t grass 10 16 True 2530 0.0
+sweep_t grassplus 10 16 True 356868 2.11
+sweep_t ours 10 16 True 460 0.0
+sweep_t dm20 12 16 True 276 0.01
+sweep_t dems24 12 16 True 292 0.01
+sweep_t sashimi 12 16 True 954960 4.52
+sweep_t csishark 12 16 True 954960 4.51
+sweep_t cm22 12 16 True 1113660 4.99
+sweep_t thresher 12 16 True 1363233 14.07
+sweep_t grass 12 16 True 3588 0.0
+sweep_t grassplus 12 16 True 521065 3.12
+sweep_t ours 12 16 True 552 0.0
+sweep_t dm20 16 16 True 368 0.02
+sweep_t dems24 16 16 True 384 0.02
+sweep_t sashimi 16 16 True 1707520 7.93
+sweep_t csishark 16 16 True 1707520 7.99
+sweep_t cm22 16 16 True 1979472 9.39
+sweep_t thresher 16 16 True 2476249 30.62
+sweep_t grass 16 16 True 6256 0.0
+sweep_t ours 16 16 True 736 0.0
+sweep_K dm20 4 1 True 284
+sweep_K dems24 4 1 True 285
+sweep_K sashimi 4 1 True 312400
+sweep_K csishark 4 1 True 312400
+sweep_K cm22 4 1 True 382548
+sweep_K thresher 4 1 True 390145
+sweep_K grass 4 1 True 1420
+sweep_K grassplus 4 1 True 155277
+sweep_K ours 4 1 True 478
+sweep_K dm20 4 16 True 92
+sweep_K dems24 4 16 True 108
+sweep_K sashimi 4 16 True 101200
+sweep_K csishark 4 16 True 101200
+sweep_K cm22 4 16 True 123924
+sweep_K thresher 4 16 True 126385
+sweep_K grass 4 16 True 460
+sweep_K grassplus 4 16 True 50301
+sweep_K ours 4 16 True 184
+sweep_K dm20 4 256 True 52
+sweep_K dems24 4 256 True 308
+sweep_K sashimi 4 256 True 57200
+sweep_K csishark 4 256 True 57200
+sweep_K cm22 4 256 True 70044
+sweep_K thresher 4 256 True 71435
+sweep_K grass 4 256 True 260
+sweep_K grassplus 4 256 True 28431
+sweep_K ours 4 256 True 104
+sweep_R dm20 4 16 112 True 92
+sweep_R dems24 4 16 112 True 108
+sweep_R sashimi 4 16 112 True 101200
+sweep_R csishark 4 16 112 True 101200
+sweep_R cm22 4 16 112 True 123924
+sweep_R thresher 4 16 112 True 126385
+sweep_R grass 4 16 112 True 460
+sweep_R grassplus 4 16 112 True 50301
+sweep_R ours 4 16 112 True 181
+sweep_R dm20 4 16 256 True 92
+sweep_R dems24 4 16 256 True 108
+sweep_R sashimi 4 16 256 True 230920
+sweep_R csishark 4 16 256 True 230920
+sweep_R cm22 4 16 256 True 282900
+sweep_R thresher 4 16 256 True 288673
+sweep_R grass 4 16 256 True 460
+sweep_R grassplus 4 16 256 True 114632
+sweep_R ours 4 16 256 True 181
+grass_rss 2 3 3 True 207
+grass_rss 3 5 10 True 920
+grass_rss 4 7 35 True 4025
+grass_rss 5 9 126 True 17388
+cheat setup 600 0 0
+cheat chain 438 162 0
+cheat response 444 156 0
+real dm20 2 True 46 0.3
+real dems24 2 True 62 0.4
+real sashimi 2 True 23460 120.9
+real csishark 2 True 23460 115.9
+real cm22 2 True 31050 154.1
+real thresher 2 True 23253 118.6
+real grass 2 True 138 0.6
+real grassplus 2 True 10120 50.0
+real ours 2 True 92 0.4
+real dm20 3 True 69 0.3
+real dems24 3 True 85 0.4
+real sashimi 3 True 55545 281.3
+real csishark 3 True 55545 281.6
+real cm22 3 True 69759 350.8
+real thresher 3 True 64515 288.2
+real grass 3 True 276 1.2
+real grassplus 3 True 26335 127.1
+real ours 3 True 134 0.6
